@@ -1,0 +1,6 @@
+*.swp
+*.LOCAL.*
+*.REMOTE.*
+*.BASE.*
+*.BACKUP.*
+*.orig
